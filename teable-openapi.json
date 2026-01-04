@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://app.teable.io/api"
+      "url": "https://table.resultmarketing.asia/api"
     }
   ],
   "components": {
